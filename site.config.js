@@ -1,9 +1,9 @@
 export const siteConfig = {
-  name: `@whoisryosuke`,
-  title: `NextJS MDX Deck`,
-  date: `April 22, 2020`,
+  name: `@10krotator`,
+  title: `solana sign product deck`,
+  date: `Oct 8, 2024`,
   author: {
-    url: `https://twitter.com/whoisryosuke`,
+    url: `https://x.com/10krotator`,
   },
 }
 
